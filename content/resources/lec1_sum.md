@@ -6,7 +6,12 @@ description: 'This resource discusses outline of the theory of evolution, reccur
   Mendel?s discovery, Genotype space and Phenotype space, and Hardy-Weinberg proportions.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-877j-computational-evolutionary-biology-fall-2005/06b1aedefb96546357e53d5a948a17ca_lec1_sum.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec1_sum.pdf
+type: OCWFile
 uid: 06b1aede-fb96-5463-57e5-3d5a948a17ca
 ---

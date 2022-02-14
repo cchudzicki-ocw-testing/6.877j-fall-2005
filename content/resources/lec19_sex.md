@@ -5,7 +5,12 @@ description: 'This resource discusses the cost of sex: why sex? Kirkpatrick?s Ro
   recombination can over-come the two-fold cost of sex.'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-877j-computational-evolutionary-biology-fall-2005/53f9401bba25db78905af07fc8379d47_lec19_sex.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec19_sex.pdf
+type: OCWFile
 uid: 53f9401b-ba25-db78-905a-f07fc8379d47
 ---

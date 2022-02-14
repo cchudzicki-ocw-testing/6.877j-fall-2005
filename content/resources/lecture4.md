@@ -8,7 +8,12 @@ description: 'This resource discusses the interaction of evolutionary forces, II
   another?'
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-877j-computational-evolutionary-biology-fall-2005/ef175aa06c49011c1cd871877becd9c0_lecture4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture4.pdf
+type: OCWFile
 uid: ef175aa0-6c49-011c-1cd8-71877becd9c0
 ---

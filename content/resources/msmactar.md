@@ -4,7 +4,12 @@ description: This resource is a supporting file for lab 2 part 2, contains Macin
   version for installing and running the ms program.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-877j-computational-evolutionary-biology-fall-2005/141afda4987554d7c784caf351385fd4_msmactar.gz
 file_type: application/x-gzip
+learning_resource_types:
+- Labs
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Other
 title: msmactar.gz
+type: OCWFile
 uid: 141afda4-9875-54d7-c784-caf351385fd4
 ---
