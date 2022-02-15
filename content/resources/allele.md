@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Lecture Notes
+ocw_type: OCWImage
 parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Image

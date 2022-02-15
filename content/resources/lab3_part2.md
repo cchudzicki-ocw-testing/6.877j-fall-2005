@@ -6,6 +6,7 @@ file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-877j-compu
 file_type: application/pdf
 learning_resource_types:
 - Labs
+ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
