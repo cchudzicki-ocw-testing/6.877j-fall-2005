@@ -9,6 +9,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: pamlfaqs.pdf
-type: OCWFile
 uid: 9a6d5e51-5fb1-e760-8eb3-919855b01880
 ---

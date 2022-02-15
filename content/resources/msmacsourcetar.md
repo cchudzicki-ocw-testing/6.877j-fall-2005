@@ -10,6 +10,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Other
 title: msmacsourcetar.gz
-type: OCWFile
 uid: 6eb67685-cd27-56a8-8099-f36f282a934a
 ---

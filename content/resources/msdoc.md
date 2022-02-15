@@ -10,6 +10,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: msdoc.pdf
-type: OCWFile
 uid: 19f15c66-4a1c-ecbf-0401-9ecf5534b563
 ---

@@ -10,6 +10,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Other
 title: mssource.zip
-type: OCWFile
 uid: 5910364c-17a3-6fca-7eb2-4ab3a36e21b5
 ---

@@ -10,6 +10,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Other
 title: CoalFace03b.zip
-type: OCWFile
 uid: c44d7f44-b4d4-ba18-b4d3-10ecf01e259b
 ---

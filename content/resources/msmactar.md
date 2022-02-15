@@ -10,6 +10,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Other
 title: msmactar.gz
-type: OCWFile
 uid: 141afda4-9875-54d7-c784-caf351385fd4
 ---

@@ -10,6 +10,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Other
 title: CoalFace03btar.gz
-type: OCWFile
 uid: fb59ee04-0610-b086-2a4f-d7b1510ea3b8
 ---

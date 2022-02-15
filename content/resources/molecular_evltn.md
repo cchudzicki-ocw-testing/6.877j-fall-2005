@@ -10,6 +10,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: molecular_evltn.pdf
-type: OCWFile
 uid: 28cbd07b-a40b-0f31-1d0e-d99d4b7fcf8f
 ---

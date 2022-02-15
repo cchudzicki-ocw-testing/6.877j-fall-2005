@@ -13,6 +13,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Image
 title: allele.jpg
-type: OCWImage
 uid: c97c48c8-0851-35f3-2e1a-e7f98f00123a
 ---

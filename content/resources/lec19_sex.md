@@ -11,6 +11,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: lec19_sex.pdf
-type: OCWFile
 uid: 53f9401b-ba25-db78-905a-f07fc8379d47
 ---

@@ -12,6 +12,5 @@ parent_title: Lecture Notes
 parent_type: CourseSection
 resourcetype: Document
 title: lec1_sum.pdf
-type: OCWFile
 uid: 06b1aede-fb96-5463-57e5-3d5a948a17ca
 ---

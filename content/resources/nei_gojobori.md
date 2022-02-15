@@ -11,6 +11,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: nei_gojobori.pdf
-type: OCWFile
 uid: 55e26023-a0b1-6e3b-4e0c-05467932e059
 ---

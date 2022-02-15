@@ -10,6 +10,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: plotkinnature04.pdf
-type: OCWFile
 uid: 7866bacf-16f0-0847-d8bc-ba88c47fe7e1
 ---

@@ -9,6 +9,5 @@ parent_title: Labs
 parent_type: CourseSection
 resourcetype: Document
 title: pamldescription.pdf
-type: OCWFile
 uid: 0e0d40a5-abde-786c-ff50-acb3e4f03acd
 ---
