@@ -27,7 +27,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction: The Basic Dynamical Systems of Evolution ({{< resource_link 06b1aede-fb96-5463-57e5-3d5a948a17ca "PDF" >}})
+Introduction: The Basic Dynamical Systems of Evolution ({{% resource_link 06b1aede-fb96-5463-57e5-3d5a948a17ca "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -36,7 +36,7 @@ Introduction: The Basic Dynamical Systems of Evolution ({{< resource_link 06b1ae
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Evolution at the Molecular Level I ({{< resource_link 28cbd07b-a40b-0f31-1d0e-d99d4b7fcf8f "PDF" >}})
+Evolution at the Molecular Level I ({{% resource_link 28cbd07b-a40b-0f31-1d0e-d99d4b7fcf8f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -45,7 +45,7 @@ Evolution at the Molecular Level I ({{< resource_link 28cbd07b-a40b-0f31-1d0e-d9
 19
 {{< tdclose >}}
 {{< tdopen >}}
-Host-parasite Interactions and Disease Models ({{< resource_link 53f9401b-ba25-db78-905a-f07fc8379d47 "PDF" >}})
+Host-parasite Interactions and Disease Models ({{% resource_link 53f9401b-ba25-db78-905a-f07fc8379d47 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

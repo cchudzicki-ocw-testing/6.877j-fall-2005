@@ -20,13 +20,13 @@ Instructions for using the software for each laboratory will be provided. Most o
 
 ### Lab 1: Forces of Evolution
 
-Part 1({{< resource_link b00d30e1-9eeb-d9df-0f5a-cb535ee97272 "PDF" >}})  
-Part 2 ({{< resource_link 730d687e-83ca-2a45-7e81-1e927b6e4554 "PDF" >}})
+Part 1({{% resource_link b00d30e1-9eeb-d9df-0f5a-cb535ee97272 "PDF" %}})  
+Part 2 ({{% resource_link 730d687e-83ca-2a45-7e81-1e927b6e4554 "PDF" %}})
 
 ### Lab 2: Evolution, Polymorphism and the Coalescent
 
-Part 1 ({{< resource_link 88b74364-caa7-aca9-3cf1-d5d315cb1406 "PDF" >}})  
-Part 2 ({{< resource_link a08f2d56-4087-82b0-8f79-ea0e8ad0b7db "PDF" >}})
+Part 1 ({{% resource_link 88b74364-caa7-aca9-3cf1-d5d315cb1406 "PDF" %}})  
+Part 2 ({{% resource_link a08f2d56-4087-82b0-8f79-ea0e8ad0b7db "PDF" %}})
 
 Supporting files for Lab 2 (Part 1):
 
@@ -38,17 +38,17 @@ Supporting files for Lab 2 (Part 2):
 
 [ms](http://home.uchicago.edu/~rhudson1/source/mksamples.html) is from Professor Richard Hudson at University of Chicago. The following compiled binaries and source files are provided courtesy of Richard Hudson, and used with permission.
 
-msmac.tar.gz ({{< resource_link 141afda4-9875-54d7-c784-caf351385fd4 "GZ" >}}) (The GZ file contains: params, clms, migmat, col1, ms, stats, sample\_stats, seedms, .\_.DS\_Store, and .DS\_Store.)  
-mslinux.tar.gz ({{< resource_link 9241a7d2-db31-fbe7-649e-85b7093ba56a "GZ" >}}) (The GZ file contains: clms, col1, seedms, ms, stats, and sample\_stats.)  
-mslinuxsource.tar.gz ({{< resource_link b16237a3-b15d-1794-df43-cba0b8786c23 "GZ" >}}) (The GZ file contains: 9 .c files, 1 .h file., clms, col1, migmat, params, readme, and seedms.)  
-msmacsource.tar.gz ({{< resource_link 6eb67685-cd27-56a8-8099-f36f282a934a "GZ" >}}) (The GZ file contains: 10 .c files, .\_.DS\_Store, .DS\_Store, clms, migmat, params, readme, seedms, and 1 .h file.)  
-mssource.zip ({{< resource_link 5910364c-17a3-6fca-7eb2-4ab3a36e21b5 "ZIP" >}}) (The ZIP file contains: 9 .c files, clms, col1, migmat, params, readme, seedms, and 1 .h file.)  
-ms - A Program for Generating Samples under Neutral Models ({{< resource_link 19f15c66-4a1c-ecbf-0401-9ecf5534b563 "PDF" >}})
+msmac.tar.gz ({{% resource_link 141afda4-9875-54d7-c784-caf351385fd4 "GZ" %}}) (The GZ file contains: params, clms, migmat, col1, ms, stats, sample\_stats, seedms, .\_.DS\_Store, and .DS\_Store.)  
+mslinux.tar.gz ({{% resource_link 9241a7d2-db31-fbe7-649e-85b7093ba56a "GZ" %}}) (The GZ file contains: clms, col1, seedms, ms, stats, and sample\_stats.)  
+mslinuxsource.tar.gz ({{% resource_link b16237a3-b15d-1794-df43-cba0b8786c23 "GZ" %}}) (The GZ file contains: 9 .c files, 1 .h file., clms, col1, migmat, params, readme, and seedms.)  
+msmacsource.tar.gz ({{% resource_link 6eb67685-cd27-56a8-8099-f36f282a934a "GZ" %}}) (The GZ file contains: 10 .c files, .\_.DS\_Store, .DS\_Store, clms, migmat, params, readme, seedms, and 1 .h file.)  
+mssource.zip ({{% resource_link 5910364c-17a3-6fca-7eb2-4ab3a36e21b5 "ZIP" %}}) (The ZIP file contains: 9 .c files, clms, col1, migmat, params, readme, seedms, and 1 .h file.)  
+ms - A Program for Generating Samples under Neutral Models ({{% resource_link 19f15c66-4a1c-ecbf-0401-9ecf5534b563 "PDF" %}})
 
 ### Lab 3: Detecting Selection
 
-Part 1 ({{< resource_link 4952a997-5232-0dae-a5a2-c304c57592a9 "PDF" >}})  
-Part 2 ({{< resource_link b893e213-2157-d4e1-c3a6-df620a7f9685 "PDF" >}})
+Part 1 ({{% resource_link 4952a997-5232-0dae-a5a2-c304c57592a9 "PDF" %}})  
+Part 2 ({{% resource_link b893e213-2157-d4e1-c3a6-df620a7f9685 "PDF" %}})
 
 Supporting files for Lab 3 (Part 1):
 
@@ -58,7 +58,7 @@ Pfa3D7\_chr11ORFs50.fasta ([FASTA](/courses/electrical-engineering-and-computer-
 
 Supporting files for Lab 3 (Part 2):
 
-PAML Description ({{< resource_link 0e0d40a5-abde-786c-ff50-acb3e4f03acd "PDF" >}})  
+PAML Description ({{% resource_link 0e0d40a5-abde-786c-ff50-acb3e4f03acd "PDF" %}})  
 paml-exercise1.ctl ([CTL](/courses/electrical-engineering-and-computer-science/6-877j-computational-evolutionary-biology-fall-2005/labs/pamlexercise1.ctl))  
 codonmlpair.ctl ([CTL](/courses/electrical-engineering-and-computer-science/6-877j-computational-evolutionary-biology-fall-2005/labs/codonmlpair.ctl))  
 mhc.phy ([PHY](/courses/electrical-engineering-and-computer-science/6-877j-computational-evolutionary-biology-fall-2005/labs/mhc.phy))  
