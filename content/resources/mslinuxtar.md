@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: mslinuxtar.gz
 uid: 9241a7d2-db31-fbe7-649e-85b7093ba56a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

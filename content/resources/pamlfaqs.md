@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: pamlfaqs.pdf
 uid: 9a6d5e51-5fb1-e760-8eb3-919855b01880
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

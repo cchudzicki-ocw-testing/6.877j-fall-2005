@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 6877_lab1part2.pdf
 uid: 730d687e-83ca-2a45-7e81-1e927b6e4554
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

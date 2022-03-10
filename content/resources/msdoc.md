@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: msdoc.pdf
 uid: 19f15c66-4a1c-ecbf-0401-9ecf5534b563
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

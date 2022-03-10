@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: plotkinnature04.pdf
 uid: 7866bacf-16f0-0847-d8bc-ba88c47fe7e1
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Lecture Notes
 uid: 8db0d4bb-8320-973f-7884-77ad939bac7b
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This section provides outlines and questions for a few of the lecture sessions. Additional lecture notes are forthcoming.

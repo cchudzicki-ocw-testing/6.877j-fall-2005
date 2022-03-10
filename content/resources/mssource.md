@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: mssource.zip
 uid: 5910364c-17a3-6fca-7eb2-4ab3a36e21b5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

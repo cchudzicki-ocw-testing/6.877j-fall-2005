@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: lec19_sex.pdf
 uid: 53f9401b-ba25-db78-905a-f07fc8379d47
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
