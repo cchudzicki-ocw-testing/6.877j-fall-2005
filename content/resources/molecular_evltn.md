@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: molecular_evltn.pdf
 uid: 28cbd07b-a40b-0f31-1d0e-d99d4b7fcf8f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

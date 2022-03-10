@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: coalface0_2b_mnl.pdf
 uid: 63483bd7-b4f8-e39b-7ff0-695ab28614f5
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

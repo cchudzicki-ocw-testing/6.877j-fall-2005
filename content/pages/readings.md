@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Readings
 uid: 31d112cf-2469-511a-3f34-cbc531b6478f
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 The reading assignments for the course refer to chapters in the following textbooks:

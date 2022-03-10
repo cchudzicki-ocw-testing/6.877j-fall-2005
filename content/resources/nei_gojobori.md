@@ -13,4 +13,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: nei_gojobori.pdf
 uid: 55e26023-a0b1-6e3b-4e0c-05467932e059
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

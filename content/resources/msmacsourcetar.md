@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: msmacsourcetar.gz
 uid: 6eb67685-cd27-56a8-8099-f36f282a934a
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

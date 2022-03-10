@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: msmactar.gz
 uid: 141afda4-9875-54d7-c784-caf351385fd4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

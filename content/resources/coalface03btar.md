@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Other
 title: CoalFace03btar.gz
 uid: fb59ee04-0610-b086-2a4f-d7b1510ea3b8
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
