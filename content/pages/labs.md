@@ -34,9 +34,9 @@ Part 2 ({{% resource_link a08f2d56-4087-82b0-8f79-ea0e8ad0b7db "PDF" %}})
 
 Supporting files for Lab 2 (Part 1):
 
-5-sequence-data.txt ([TXT](/courses/electrical-engineering-and-computer-science/6-877j-computational-evolutionary-biology-fall-2005/labs/5sequencedata.txt))  
-PiS-awk.txt ([TXT](/courses/electrical-engineering-and-computer-science/6-877j-computational-evolutionary-biology-fall-2005/labs/PiSawk.txt))  
-sites-testdata.txt ([TXT](/courses/electrical-engineering-and-computer-science/6-877j-computational-evolutionary-biology-fall-2005/labs/sitestestdata.txt))
+5-sequence-data.txt ({{% resource_link 2b41c284-3639-dc61-62a5-ad8e8d8a4388 "TXT" %}})  
+PiS-awk.txt ({{% resource_link 2c344a93-4555-0e87-85ca-d8138c609f64 "TXT" %}})  
+sites-testdata.txt ({{% resource_link 5d108ef2-1337-7dcf-7022-4afec1415c10 "TXT" %}})
 
 Supporting files for Lab 2 (Part 2):
 
@@ -56,19 +56,19 @@ Part 2 ({{% resource_link b893e213-2157-d4e1-c3a6-df620a7f9685 "PDF" %}})
 
 Supporting files for Lab 3 (Part 1):
 
-falciparum.fas ([FAS](/courses/electrical-engineering-and-computer-science/6-877j-computational-evolutionary-biology-fall-2005/labs/falciparum.fas))  
-pf11\_0344.fasta ([FASTA](/courses/electrical-engineering-and-computer-science/6-877j-computational-evolutionary-biology-fall-2005/labs/pf11_0344.fasta))  
-Pfa3D7\_chr11ORFs50.fasta ([FASTA](/courses/electrical-engineering-and-computer-science/6-877j-computational-evolutionary-biology-fall-2005/labs/Pfa3D7_chr11ORFs50.fasta))
+falciparum.fas ({{% resource_link c2b379d4-a80d-0b43-5f27-430c8ec282ef "FAS" %}})  
+pf11\_0344.fasta ({{% resource_link 213ba802-4cd1-6cd7-cf3c-fe298abcbe55 "FASTA" %}})  
+Pfa3D7\_chr11ORFs50.fasta ({{% resource_link fe9cc7c4-bcf9-9444-9ef3-75521f7e0b64 "FASTA" %}})
 
 Supporting files for Lab 3 (Part 2):
 
 PAML Description ({{% resource_link 0e0d40a5-abde-786c-ff50-acb3e4f03acd "PDF" %}})  
-paml-exercise1.ctl ([CTL](/courses/electrical-engineering-and-computer-science/6-877j-computational-evolutionary-biology-fall-2005/labs/pamlexercise1.ctl))  
-codonmlpair.ctl ([CTL](/courses/electrical-engineering-and-computer-science/6-877j-computational-evolutionary-biology-fall-2005/labs/codonmlpair.ctl))  
-mhc.phy ([PHY](/courses/electrical-engineering-and-computer-science/6-877j-computational-evolutionary-biology-fall-2005/labs/mhc.phy))  
-codonmlsites.ctl ([CTL](/courses/electrical-engineering-and-computer-science/6-877j-computational-evolutionary-biology-fall-2005/labs/codonmlsites.ctl))  
-codonmllineage.ctl ([CTL](/courses/electrical-engineering-and-computer-science/6-877j-computational-evolutionary-biology-fall-2005/labs/codonmllineage.ctl))  
-paml\_gstd1\_seqfile.txt ([TXT](/courses/electrical-engineering-and-computer-science/6-877j-computational-evolutionary-biology-fall-2005/labs/paml_gstd1_seqfile.txt))
+paml-exercise1.ctl ({{% resource_link 89355e48-8a75-55f3-ae48-c38c3dfe981f "CTL" %}})  
+codonmlpair.ctl ({{% resource_link 57eda6d4-1fa6-7859-9ef9-82f658323641 "CTL" %}})  
+mhc.phy ({{% resource_link d74a1504-8c93-c142-c1af-e4b3e14190f5 "PHY" %}})  
+codonmlsites.ctl ({{% resource_link ab9bc3ae-5306-ae6c-9320-2535290ac26d "CTL" %}})  
+codonmllineage.ctl ({{% resource_link 004f2a80-547b-82d4-e866-b5a72b3c2c42 "CTL" %}})  
+paml\_gstd1\_seqfile.txt ({{% resource_link 03470db6-f2ad-020e-2b3c-47f392882380 "TXT" %}})
 
 Lab Supporting Files
 --------------------
