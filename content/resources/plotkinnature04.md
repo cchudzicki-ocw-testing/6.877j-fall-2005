@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is a supporting file for lab 3 part 1, contains information
   on Plotkin's nature paper.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-877j-computational-evolutionary-biology-fall-2005/7866bacf16f00847d8bcba88c47fe7e1_plotkinnature04.pdf
+file: /courses/6-877j-computational-evolutionary-biology-fall-2005/7866bacf16f00847d8bcba88c47fe7e1_plotkinnature04.pdf
 file_type: application/pdf
 learning_resource_types:
 - Labs
@@ -18,3 +18,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource is a supporting file for lab 3 part 1, contains information on Plotkin's nature paper.

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about Detecting selection ? likelihood
   methods ? PAML (Phylogenetic Analysis by Maximum Likelihood).
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-877j-computational-evolutionary-biology-fall-2005/b893e2132157d4e1c3a6df620a7f9685_lab3_part2.pdf
+file: /courses/6-877j-computational-evolutionary-biology-fall-2005/b893e2132157d4e1c3a6df620a7f9685_lab3_part2.pdf
 file_type: application/pdf
 learning_resource_types:
 - Labs
@@ -18,3 +18,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource contains information about Detecting selection ? likelihood methods ? PAML (Phylogenetic Analysis by Maximum Likelihood).

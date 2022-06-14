@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource is a supporting file for lab 3 part 2, contains PAML faqs.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-877j-computational-evolutionary-biology-fall-2005/9a6d5e515fb1e7608eb3919855b01880_pamlfaqs.pdf
+file: /courses/6-877j-computational-evolutionary-biology-fall-2005/9a6d5e515fb1e7608eb3919855b01880_pamlfaqs.pdf
 file_type: application/pdf
 learning_resource_types:
 - Labs
@@ -17,3 +17,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource is a supporting file for lab 3 part 2, contains PAML faqs.

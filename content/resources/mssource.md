@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is a supporting file for lab 2 part 3, contains files for
   installing and running the ms program in the zip format.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-877j-computational-evolutionary-biology-fall-2005/5910364c17a36fca7eb24ab3a36e21b5_mssource.zip
+file: /courses/6-877j-computational-evolutionary-biology-fall-2005/5910364c17a36fca7eb24ab3a36e21b5_mssource.zip
 file_type: application/zip
 learning_resource_types:
 - Labs
@@ -18,3 +18,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource is a supporting file for lab 2 part 3, contains files for installing and running the ms program in the zip format.

@@ -6,7 +6,7 @@ description: 'This resource discusses the interaction of evolutionary forces, II
   balance, genetic drift, and genetic variation: how population size matters, and
   the interaction of mutation, drift, selection: when does one force prevail over
   another?'
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-877j-computational-evolutionary-biology-fall-2005/ef175aa06c49011c1cd871877becd9c0_lecture4.pdf
+file: /courses/6-877j-computational-evolutionary-biology-fall-2005/ef175aa06c49011c1cd871877becd9c0_lecture4.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -22,3 +22,5 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource discusses the interaction of evolutionary forces, II: mutationselection
+balance, genetic drift, and genetic variation: how population size matters, and the interaction of mutation, drift, selection: when does one force prevail over another?

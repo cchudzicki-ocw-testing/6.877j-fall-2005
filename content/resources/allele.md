@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Allele frequencies.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-877j-computational-evolutionary-biology-fall-2005/c97c48c8085135f32e1ae7f98f00123a_allele.jpg
+file: /courses/6-877j-computational-evolutionary-biology-fall-2005/c97c48c8085135f32e1ae7f98f00123a_allele.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -21,3 +21,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+Allele frequencies.

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource is a supporting reading file for lab2 part 2 which contains
   manual to run coalface programs.
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/6-877j-computational-evolutionary-biology-fall-2005/63483bd7b4f8e39b7ff0695ab28614f5_coalface0_2b_mnl.pdf
+file: /courses/6-877j-computational-evolutionary-biology-fall-2005/63483bd7b4f8e39b7ff0695ab28614f5_coalface0_2b_mnl.pdf
 file_type: application/pdf
 learning_resource_types:
 - Labs
@@ -18,3 +18,4 @@ video_files:
 video_metadata:
   youtube_id: null
 ---
+This resource is a supporting reading file for lab2 part 2 which contains manual to run coalface programs.
