@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The labs section contain 5 labs file and overview about the goals, mechanics,
+  format, lab reports, and policy on cooperative work for the course.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection

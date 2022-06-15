@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: The syllabus section contains information about prerequisites, textbooks
+  required and recommended for reference, assignments, turning in assignments, policies,and
+  grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

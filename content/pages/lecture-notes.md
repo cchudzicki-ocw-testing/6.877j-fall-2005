@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The lecture notes section contains 5 lecture files and questions for
+  lecture 1 and lecture 2, for further discussion and reflection.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
