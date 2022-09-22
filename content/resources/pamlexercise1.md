@@ -6,6 +6,7 @@ file: /courses/6-877j-computational-evolutionary-biology-fall-2005/89355e488a755
 file_type: text/plain
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
